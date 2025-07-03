@@ -1,2 +1,2 @@
 # javascript
-This is javascript miniprojects-to do list
+This is javascript miniproject-to do list
